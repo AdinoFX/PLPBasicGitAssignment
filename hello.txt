@@ -1,0 +1,18 @@
+# Steps and Commands Used:
+#
+# Step 1: I created a new repo on my github account
+# Step 2: I initialized a README file inside the repo
+# Step 3: then i created a local folder on my desktop
+# Step 4: I used "git remote add origin <repo url>" to connect my repo to the
+# local folder
+# Step 5: Then i created a text file ("hello.txt") using the "touch hello.txt"
+# command
+#
+# Step 6: I used "vim hello.txt" to write into the file and save it using ":wq"
+#
+# Step 7: Then I used "git status" to see all my input yet to be committed
+#
+# Step 8: After checking, I committed using "git commit -m 'commit text' "
+# 
+# Step 9: Then I pushed to github using "git push origin master"
+# I used "master" because my version of git is an old version
